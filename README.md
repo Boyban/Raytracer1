@@ -6,5 +6,5 @@ Goal of this project is to recode principe of Raytracing.
 To use this binary, install CSFML. 
 Usage : ./raytracer
 
-Modification : .config 
+Modification : config.txt 
 SPHERE, CONE, CYLINDER
